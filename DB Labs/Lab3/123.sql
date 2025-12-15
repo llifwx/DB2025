@@ -1,0 +1,1 @@
+SELECT 10+5 AS y;
